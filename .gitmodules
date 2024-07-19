@@ -1,0 +1,3 @@
+[submodule "Posts_frontend"]
+	path = Posts_frontend
+	url = https://github.com/Anusha1424/Posts_frontend.git
