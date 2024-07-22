@@ -24,11 +24,11 @@ This project is a full-stack posts application built with a React frontend and a
    npm install
 
 3. Create a .env file in the root directory and add your MongoDB URI:
-
+   ```sh
     MONGO_URI=your_mongodb_uri
 
 4. Run application
-
+   ```sh
     node index.js
 
 ### Frontend Setup
@@ -43,5 +43,5 @@ This project is a full-stack posts application built with a React frontend and a
    npm install
 
 4. Run application
-
+```sh
     npm start
