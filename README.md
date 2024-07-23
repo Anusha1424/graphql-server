@@ -30,18 +30,3 @@ This project is a full-stack posts application built with a React frontend and a
 4. Run application
    ```sh
     node index.js
-
-### Frontend Setup
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Anusha1424/Posts_frontend
-   cd Posts_frontend
-
-2. Install dependencies:
-   ```sh
-   npm install
-
-4. Run application
-```sh
-    npm start
